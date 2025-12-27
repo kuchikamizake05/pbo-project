@@ -1,0 +1,27 @@
+# Multi-platform executable files
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# IDE and Build System files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.user
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
